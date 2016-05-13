@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jacobibaldecarm00mlgoog_0006.png"; bbox 0 0 2600 4284; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 834 2238 2954">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 834 2238 2954">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 834 2238 2954; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 588 834 2238 2954; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 697 2964 2208 2969">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 697 2964 2208 2969">
+     <span class='ocr_line' id='line_1_2' title="bbox 697 2964 2208 2969; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 697 2964 2208 2969; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 841 3226 2070 3306">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 841 3226 2070 3314">
+     <span class='ocr_line' id='line_1_3' title="bbox 841 3226 2070 3306; baseline -0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 841 3229 1143 3306; x_wconf 25' lang='lat' dir='ltr'><em>*lembum</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1159 3232 1373 3306; x_wconf 42' lang='lat' dir='ltr'><em>fialas?</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1410 3237 1603 3306; x_wconf 52' lang='lat' dir='ltr'><em>Vbsdem</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1624 3292 1631 3301; x_wconf 78' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1653 3226 1982 3302; x_wconf 49' lang='lat' dir='ltr'><em>‘stammam</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2050 3243 2070 3266; x_wconf 38' lang='grc'><em>’-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
